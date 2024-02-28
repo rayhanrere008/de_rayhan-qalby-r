@@ -20,7 +20,7 @@ Pembahasan: kata kasur merupakan anagram dari kata rusak karena jumlah frekuensi
 **Jawab :**
 Code : 
 
-![Gambar Code Cek Anagram](04_Basic-Programming-with-Python/screenshots/Eksplorasi/Code-cekAnagram1.png)
+![Gambar Code Cek Anagram](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/04_Basic-Programming-with-Python/screenshots/Eksplorasi/Code-cekAnagram1.png?raw=true)
 ![Gambar Code Cek Anagram](/screenshots/Eksplorasi/Code-cekAnagram2.png)
 
 **Fungsi 'cek_anagram(kata1, kata2)' digunakan untuk mengambil parameter yaitu kata1, kata2. Kedua kata diubah menjadi lowercase dan no spasi agar menghasilkan perbadingan yang tepat. Selanjutnya, program menghitung frekuensi setiap huruf pada kata1 menggunakan kamus (dictionary) frekuensi. Kemudian, frekuensi huruf pada kata2 dibandingkan dengan frekuensi dari kata1. Jika ditemukan perbedaan, maka dikembalikan nilai False karena tidak mungkin merupakan anagram. Terakhir, program memastikan bahwa setiap huruf pada kata1 dan kata2 memiliki frekuensi yang sama, sehingga merupakan anagram.**
