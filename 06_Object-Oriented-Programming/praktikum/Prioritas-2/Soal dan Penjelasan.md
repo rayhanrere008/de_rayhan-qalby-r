@@ -20,7 +20,7 @@ Memperluas sistem manajemen pusat kebugaran dengan menambahkan fitur khusus untu
 
 **Code :**
 
-![Gambar Code No 1, 2, dan 3](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/06_Object-Oriented-Programming/screenshots/Prioritas-2/Code_desain-kelas-pelanggan.png?raw=true)
+![Gambar Code No 1, 2, dan 3](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/06_Object-Oriented-Programming/screenshots/Prioritas-2/Code_desain-kelas-turunan-lanjutan.png?raw=true)
 
 Class Yoga dan AngkatBeban mewarisi dari kelas KelasLatihan dan menambahkan atribut tingkat kesulitan yang spesifik untuk kelas yoga dan menambahkan atribut berat maksimum yang spesifik untuk kelas angkat beban.Memiliki metode aturPosisiYoga() yang khusus untuk mengatur posisi yoga. Memiliki metode aturBeratBeban() yang khusus untuk mengatur berat beban. Fungsi cekInfoKelasLatihan(): Ini adalah fungsi yang menerima objek KelasLatihan sebagai parameter. Fungsi ini menggunakan polymorphism untuk memeriksa tipe objek dan memanggil metode khusus berdasarkan tipe objeknya.
 
