@@ -1,0 +1,39 @@
+version: "3.7"
+
+services:
+  app-service:
+    build: .
+    environment:
+      - DB_HOST=${DB_HOST}
+      - DB_PORT=${DB_PORT}
+      - DB_USERNAME=${DB_USERNAME}
+      - DB_PASSWORD=${DB_PASSWORD}
+      - DB_NAME=${DB_NAME}
+    networks:
+      - my-network
+    depends_on:
+      database-service:
+        condition: service_healthy
+        restart: true
+
+  database-service:
+    image: mysql:latest
+    environment:
+      - MYSQL_ROOT_PASSWORD=${DB_PASSWORD}
+    ports:
+      - 3306
+    volumes:
+      - /c/rayhan/etlappvolume:/var/lib/mysql
+      - ./mysql/init.sql:/data/application/init.sql
+    command: --init-file /data/application/init.sql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 1m30s
+      timeout: 5s
+      retries: 10
+    networks:
+      - my-network
+
+networks:
+  my-network:
+    driver: bridge

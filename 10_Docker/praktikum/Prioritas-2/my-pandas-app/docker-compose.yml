@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  myapp:
+    build: .
+    ports:
+      - "4000:4000"
