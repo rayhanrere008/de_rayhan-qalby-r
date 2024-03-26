@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5500,
+            "driver": "PostgreSQL",
+            "name": "prioritas1_citus",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "mypassword"
+        }
+    ]
+}
