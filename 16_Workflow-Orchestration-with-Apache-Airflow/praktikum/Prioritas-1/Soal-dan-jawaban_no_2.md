@@ -43,7 +43,7 @@ Kriteria yang harus dipenuhi:
 
     **Ini akan memastikan bahwa calculate_sum_task akan dieksekusi setelah generate_numbers_task selesai, dan check_even_task akan dieksekusi setelah calculate_sum_task selesai.**
 
-- **Jalankan Airflowk**
+- **Jalankan Airflow**
 
     ![Gambar Jalankan Airflow](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/16_Workflow-Orchestration-with-Apache-Airflow/screenshots/Prioritas-1/Soal_2/07_jalankan_airflow.png?raw=true)
 

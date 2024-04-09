@@ -64,7 +64,7 @@ Kriteria yang harus dipenuhi:
 
     ![Gambar Membuat koneksi postgre](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/16_Workflow-Orchestration-with-Apache-Airflow/screenshots/Eksplorasi/10_membuat-koneksi-postgre-di-airflow.png?raw=true)
 
-    **Disini saya membuat koneksi baru bernama postgre_db dengan tipe koneksi Postgre. selain itu memiliki keterangan host : localhost, database : postgres, login(username) : postgres, password : mypassword, dan port 5500.**
+    **Disini saya membuat koneksi baru bernama postgres_db dengan tipe koneksi Postgre. selain itu memiliki keterangan host : localhost, database : postgres, login(username) : postgres, password : mypassword, dan port 5500.**
 
 - **Jalankan Airflow:**
 
