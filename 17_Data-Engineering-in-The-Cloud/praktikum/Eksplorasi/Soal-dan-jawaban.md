@@ -106,12 +106,6 @@
 
     **Terlihat pada storage bucket firebase terdapat file output_product.parquet yang berhasil di load.**
 
-- **Load ke storage firebase berhasil:**
-
-    ![Gambar Load ke storage](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/17_Data-Engineering-in-The-Cloud/screenshots/Eksplorasi/18_berhasil-load-ke-storage.png?raw=true)
-
-    **Terlihat pada storage bucket firebase terdapat file output_product.parquet yang berhasil di load.**
-
 - **Isi file output_product.parquet yang telah diekstrak ke csv:**
 
     ![Gambar Isi file output_product.parquet](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/17_Data-Engineering-in-The-Cloud/screenshots/Eksplorasi/19_isi-file-output_product.csv-(diekstrak-dari-file-parquet).png?raw=true)
