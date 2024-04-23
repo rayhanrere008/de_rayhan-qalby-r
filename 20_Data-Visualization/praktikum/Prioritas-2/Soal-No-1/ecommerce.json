@@ -1,0 +1,1002 @@
+[
+  {
+    "transaction_id": 1,
+    "transaction_date": "01-11-2023",
+    "customer_name": "John Doe",
+    "transaction_amount": 50,
+    "item_category": "book",
+    "item_name": "The Great Gatsby",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 2,
+    "transaction_date": "01-11-2023",
+    "customer_name": "Jane Smith",
+    "transaction_amount": 120.5,
+    "item_category": "gaming",
+    "item_name": "PlayStation 5",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 3,
+    "transaction_date": "02-11-2023",
+    "customer_name": "Bob Johnson",
+    "transaction_amount": 800,
+    "item_category": "technology",
+    "item_name": "Laptop",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 4,
+    "transaction_date": "03-11-2023",
+    "customer_name": "Alice Williams",
+    "transaction_amount": 30,
+    "item_category": "kitchen",
+    "item_name": "Coffee Maker",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 5,
+    "transaction_date": "03-11-2023",
+    "customer_name": "Charlie Brown",
+    "transaction_amount": 150,
+    "item_category": "book",
+    "item_name": "To Kill a Mockingbird",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 6,
+    "transaction_date": "04-11-2023",
+    "customer_name": "David Wilson",
+    "transaction_amount": 450,
+    "item_category": "gaming",
+    "item_name": "Nintendo Switch",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 7,
+    "transaction_date": "04-11-2023",
+    "customer_name": "Emma Davis",
+    "transaction_amount": 200,
+    "item_category": "technology",
+    "item_name": "Smartphone",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 8,
+    "transaction_date": "05-11-2023",
+    "customer_name": "George Thompson",
+    "transaction_amount": 25,
+    "item_category": "kitchen",
+    "item_name": "Blender",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 9,
+    "transaction_date": "05-11-2023",
+    "customer_name": "Olivia Martin",
+    "transaction_amount": 350,
+    "item_category": "book",
+    "item_name": 1984,
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 10,
+    "transaction_date": "06-11-2023",
+    "customer_name": "Samuel Moore",
+    "transaction_amount": 100,
+    "item_category": "gaming",
+    "item_name": "Xbox Series X",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 11,
+    "transaction_date": "07-11-2023",
+    "customer_name": "Sophia White",
+    "transaction_amount": 75,
+    "item_category": "technology",
+    "item_name": "Tablet",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 12,
+    "transaction_date": "07-11-2023",
+    "customer_name": "William Turner",
+    "transaction_amount": 18,
+    "item_category": "kitchen",
+    "item_name": "Toaster",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 13,
+    "transaction_date": "08-11-2023",
+    "customer_name": "Grace Harris",
+    "transaction_amount": 90,
+    "item_category": "book",
+    "item_name": "Brave New World",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 14,
+    "transaction_date": "08-11-2023",
+    "customer_name": "Ethan Miller",
+    "transaction_amount": 15.5,
+    "item_category": "gaming",
+    "item_name": "PC Game: Cyberpunk 2077",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 15,
+    "transaction_date": "09-11-2023",
+    "customer_name": "James Taylor",
+    "transaction_amount": 60,
+    "item_category": "technology",
+    "item_name": "Smartwatch",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 16,
+    "transaction_date": "10-11-2023",
+    "customer_name": "Lily Anderson",
+    "transaction_amount": 8,
+    "item_category": "kitchen",
+    "item_name": "Kitchen Scale",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 17,
+    "transaction_date": "10-11-2023",
+    "customer_name": "Mason Evans",
+    "transaction_amount": 280,
+    "item_category": "book",
+    "item_name": "The Catcher in the Rye",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 18,
+    "transaction_date": "11-11-2023",
+    "customer_name": "Emily Moore",
+    "transaction_amount": 55.5,
+    "item_category": "gaming",
+    "item_name": "Board Game: Catan",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 19,
+    "transaction_date": "11-11-2023",
+    "customer_name": "Lucas Robinson",
+    "transaction_amount": 80,
+    "item_category": "technology",
+    "item_name": "Bluetooth Earbuds",
+    "payment_method": "e wallet",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 20,
+    "transaction_date": "12-11-2023",
+    "customer_name": "Isabella Martinez",
+    "transaction_amount": 35,
+    "item_category": "kitchen",
+    "item_name": "Cookware Set",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 21,
+    "transaction_date": "12-11-2023",
+    "customer_name": "Noah Clark",
+    "transaction_amount": 9,
+    "item_category": "book",
+    "item_name": "Lord of the Rings Trilogy",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 22,
+    "transaction_date": "13-11-2023",
+    "customer_name": "Chloe Ward",
+    "transaction_amount": 14,
+    "item_category": "gaming",
+    "item_name": "Headset",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 23,
+    "transaction_date": "14-11-2023",
+    "customer_name": "Aiden Hill",
+    "transaction_amount": 20.5,
+    "item_category": "technology",
+    "item_name": "External Hard Drive",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 24,
+    "transaction_date": "14-11-2023",
+    "customer_name": "Mia Turner",
+    "transaction_amount": 6,
+    "item_category": "kitchen",
+    "item_name": "Cutting Board",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 25,
+    "transaction_date": "15-11-2023",
+    "customer_name": "Ava Jones",
+    "transaction_amount": 17,
+    "item_category": "book",
+    "item_name": "The Hobbit",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 26,
+    "transaction_date": "15-11-2023",
+    "customer_name": "Oliver Brown",
+    "transaction_amount": 150,
+    "item_category": "gaming",
+    "item_name": "PlayStation 4",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 27,
+    "transaction_date": "16-11-2023",
+    "customer_name": "Sophie Davis",
+    "transaction_amount": 500,
+    "item_category": "technology",
+    "item_name": "Laptop",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 28,
+    "transaction_date": "17-11-2023",
+    "customer_name": "Ethan Taylor",
+    "transaction_amount": 45,
+    "item_category": "kitchen",
+    "item_name": "Coffee Grinder",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 29,
+    "transaction_date": "17-11-2023",
+    "customer_name": "Liam Wilson",
+    "transaction_amount": 300,
+    "item_category": "book",
+    "item_name": "Harry Potter Box Set",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 30,
+    "transaction_date": "18-11-2023",
+    "customer_name": "Aria Robinson",
+    "transaction_amount": 22,
+    "item_category": "gaming",
+    "item_name": "Nintendo Switch Lite",
+    "payment_method": "cash",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 31,
+    "transaction_date": "18-11-2023",
+    "customer_name": "Noah Martinez",
+    "transaction_amount": 120,
+    "item_category": "technology",
+    "item_name": "Smartphone",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 32,
+    "transaction_date": "19-11-2023",
+    "customer_name": "Grace Moore",
+    "transaction_amount": 19,
+    "item_category": "kitchen",
+    "item_name": "Toaster Oven",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 33,
+    "transaction_date": "19-11-2023",
+    "customer_name": "Ella Davis",
+    "transaction_amount": 75,
+    "item_category": "book",
+    "item_name": "The Shining",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 34,
+    "transaction_date": "20-11-2023",
+    "customer_name": "Leo Hill",
+    "transaction_amount": 30.5,
+    "item_category": "gaming",
+    "item_name": "PC Game: The Witcher 3",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 35,
+    "transaction_date": "20-11-2023",
+    "customer_name": "Lucas Smith",
+    "transaction_amount": 200,
+    "item_category": "technology",
+    "item_name": "Tablet",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 36,
+    "transaction_date": "21-11-2023",
+    "customer_name": "Amelia Harris",
+    "transaction_amount": 12,
+    "item_category": "kitchen",
+    "item_name": "Mixing Bowl Set",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 37,
+    "transaction_date": "21-11-2023",
+    "customer_name": "Aiden Turner",
+    "transaction_amount": 160,
+    "item_category": "book",
+    "item_name": "The Da Vinci Code",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 38,
+    "transaction_date": "22-11-2023",
+    "customer_name": "Ella Brown",
+    "transaction_amount": 40,
+    "item_category": "gaming",
+    "item_name": "Board Game: Risk",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 39,
+    "transaction_date": "22-11-2023",
+    "customer_name": "Liam Turner",
+    "transaction_amount": 90,
+    "item_category": "technology",
+    "item_name": "Wireless Mouse",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 40,
+    "transaction_date": "23-11-2023",
+    "customer_name": "Mia Robinson",
+    "transaction_amount": 8,
+    "item_category": "kitchen",
+    "item_name": "Kitchen Timer",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 41,
+    "transaction_date": "23-11-2023",
+    "customer_name": "Noah Wilson",
+    "transaction_amount": 270,
+    "item_category": "book",
+    "item_name": "Game of Thrones Box Set",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 42,
+    "transaction_date": "24-11-2023",
+    "customer_name": "Ava Davis",
+    "transaction_amount": 55,
+    "item_category": "gaming",
+    "item_name": "Headphones",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 43,
+    "transaction_date": "24-11-2023",
+    "customer_name": "Lucas Taylor",
+    "transaction_amount": 350,
+    "item_category": "technology",
+    "item_name": "Bluetooth Speaker",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 44,
+    "transaction_date": "25-11-2023",
+    "customer_name": "Sophia Turner",
+    "transaction_amount": 25,
+    "item_category": "kitchen",
+    "item_name": "Knife Set",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 45,
+    "transaction_date": "25-11-2023",
+    "customer_name": "Oliver Hill",
+    "transaction_amount": 30,
+    "item_category": "book",
+    "item_name": "The Hunger Games Trilogy",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 46,
+    "transaction_date": "26-11-2023",
+    "customer_name": "Aria Wilson",
+    "transaction_amount": 18.5,
+    "item_category": "gaming",
+    "item_name": "PC Game: Among Us",
+    "payment_method": "cash",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 47,
+    "transaction_date": "26-11-2023",
+    "customer_name": "Liam Harris",
+    "transaction_amount": 120,
+    "item_category": "technology",
+    "item_name": "External SSD",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 48,
+    "transaction_date": "27-11-2023",
+    "customer_name": "Ethan Turner",
+    "transaction_amount": 9,
+    "item_category": "kitchen",
+    "item_name": "Baking Sheet",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 49,
+    "transaction_date": "27-11-2023",
+    "customer_name": "Chloe Brown",
+    "transaction_amount": 40.5,
+    "item_category": "book",
+    "item_name": "The Alchemist",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 50,
+    "transaction_date": "28-11-2023",
+    "customer_name": "Mia Smith",
+    "transaction_amount": 70,
+    "item_category": "gaming",
+    "item_name": "Nintendo 3DS",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 51,
+    "transaction_date": "28-11-2023",
+    "customer_name": "Noah Davis",
+    "transaction_amount": 180,
+    "item_category": "technology",
+    "item_name": "Wireless Keyboard",
+    "payment_method": "e wallet",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 52,
+    "transaction_date": "29-11-2023",
+    "customer_name": "Lucas Harris",
+    "transaction_amount": 15,
+    "item_category": "kitchen",
+    "item_name": "Peeler",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 53,
+    "transaction_date": "29-11-2023",
+    "customer_name": "Amelia Turner",
+    "transaction_amount": 28.5,
+    "item_category": "book",
+    "item_name": "The Girl on the Train",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 54,
+    "transaction_date": "30-11-2023",
+    "customer_name": "Ella Hill",
+    "transaction_amount": 10,
+    "item_category": "gaming",
+    "item_name": "Mouse Pad",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 55,
+    "transaction_date": "30-11-2023",
+    "customer_name": "Leo Robinson",
+    "transaction_amount": 240,
+    "item_category": "technology",
+    "item_name": "Smartwatch",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 56,
+    "transaction_date": "01-12-2023",
+    "customer_name": "Aiden Smith",
+    "transaction_amount": 35,
+    "item_category": "kitchen",
+    "item_name": "Cutting Board Set",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 57,
+    "transaction_date": "01-12-2023",
+    "customer_name": "Sophie Robinson",
+    "transaction_amount": 80,
+    "item_category": "book",
+    "item_name": "The Maze Runner Series",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 58,
+    "transaction_date": "02-12-2023",
+    "customer_name": "Noah Turner",
+    "transaction_amount": 7.5,
+    "item_category": "gaming",
+    "item_name": "Mobile Game Controller",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 59,
+    "transaction_date": "02-12-2023",
+    "customer_name": "Liam Brown",
+    "transaction_amount": 150,
+    "item_category": "technology",
+    "item_name": "Laptop Stand",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 60,
+    "transaction_date": "03-12-2023",
+    "customer_name": "Ella Taylor",
+    "transaction_amount": 20,
+    "item_category": "kitchen",
+    "item_name": "Mixing Spoon Set",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 61,
+    "transaction_date": "03-12-2023",
+    "customer_name": "Aria Hill",
+    "transaction_amount": 45,
+    "item_category": "book",
+    "item_name": "The Fault in Our Stars",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 62,
+    "transaction_date": "04-12-2023",
+    "customer_name": "Oliver Turner",
+    "transaction_amount": 10.5,
+    "item_category": "gaming",
+    "item_name": "PlayStation Controller",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 63,
+    "transaction_date": "04-12-2023",
+    "customer_name": "Lucas Turner",
+    "transaction_amount": 200,
+    "item_category": "technology",
+    "item_name": "Power Bank",
+    "payment_method": "e wallet",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 64,
+    "transaction_date": "05-12-2023",
+    "customer_name": "Mia Harris",
+    "transaction_amount": 15,
+    "item_category": "kitchen",
+    "item_name": "Cake Pan",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 65,
+    "transaction_date": "05-12-2023",
+    "customer_name": "Sophia Turner",
+    "transaction_amount": 60,
+    "item_category": "book",
+    "item_name": "The Chronicles of Narnia Box Set",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 66,
+    "transaction_date": "06-12-2023",
+    "customer_name": "Leo Hill",
+    "transaction_amount": 25.5,
+    "item_category": "gaming",
+    "item_name": "PC Game: Fortnite",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 67,
+    "transaction_date": "06-12-2023",
+    "customer_name": "Ethan Turner",
+    "transaction_amount": 180,
+    "item_category": "technology",
+    "item_name": "Wireless Headphones",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 68,
+    "transaction_date": "07-12-2023",
+    "customer_name": "Chloe Davis",
+    "transaction_amount": 8,
+    "item_category": "kitchen",
+    "item_name": "Measuring Cups Set",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 69,
+    "transaction_date": "07-12-2023",
+    "customer_name": "Amelia Hill",
+    "transaction_amount": 35,
+    "item_category": "book",
+    "item_name": "The Diary of a Young Girl",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 70,
+    "transaction_date": "08-12-2023",
+    "customer_name": "Liam Robinson",
+    "transaction_amount": 90,
+    "item_category": "gaming",
+    "item_name": "Board Game: Chess",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 71,
+    "transaction_date": "08-12-2023",
+    "customer_name": "Noah Wilson",
+    "transaction_amount": 300,
+    "item_category": "technology",
+    "item_name": "Bluetooth Mouse",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 72,
+    "transaction_date": "09-12-2023",
+    "customer_name": "Ava Harris",
+    "transaction_amount": 18,
+    "item_category": "kitchen",
+    "item_name": "Kitchen Shears",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 73,
+    "transaction_date": "09-12-2023",
+    "customer_name": "Ella Turner",
+    "transaction_amount": 65,
+    "item_category": "book",
+    "item_name": "The Girl with the Dragon Tattoo",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 74,
+    "transaction_date": "10-12-2023",
+    "customer_name": "Oliver Brown",
+    "transaction_amount": 15.5,
+    "item_category": "gaming",
+    "item_name": "Mouse Mat",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 75,
+    "transaction_date": "10-12-2023",
+    "customer_name": "Lucas Davis",
+    "transaction_amount": 250,
+    "item_category": "technology",
+    "item_name": "Camera",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 76,
+    "transaction_date": "11-12-2023",
+    "customer_name": "Sophie Turner",
+    "transaction_amount": 30,
+    "item_category": "kitchen",
+    "item_name": "Muffin Pan",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 77,
+    "transaction_date": "11-12-2023",
+    "customer_name": "Aiden Smith",
+    "transaction_amount": 120,
+    "item_category": "book",
+    "item_name": "The Outsiders",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 78,
+    "transaction_date": "12-12-2023",
+    "customer_name": "Chloe Wilson",
+    "transaction_amount": 40,
+    "item_category": "gaming",
+    "item_name": "VR Headset",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 79,
+    "transaction_date": "12-12-2023",
+    "customer_name": "Ethan Turner",
+    "transaction_amount": 80,
+    "item_category": "technology",
+    "item_name": "External Webcam",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 80,
+    "transaction_date": "13-12-2023",
+    "customer_name": "Amelia Robinson",
+    "transaction_amount": 14,
+    "item_category": "kitchen",
+    "item_name": "Whisk",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 81,
+    "transaction_date": "13-12-2023",
+    "customer_name": "Liam Taylor",
+    "transaction_amount": 25.5,
+    "item_category": "book",
+    "item_name": "The Art of War",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 82,
+    "transaction_date": "14-12-2023",
+    "customer_name": "Mia Hill",
+    "transaction_amount": 10,
+    "item_category": "gaming",
+    "item_name": "PC Game: Apex Legends",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 83,
+    "transaction_date": "14-12-2023",
+    "customer_name": "Noah Turner",
+    "transaction_amount": 180,
+    "item_category": "technology",
+    "item_name": "Wireless Charger",
+    "payment_method": "e wallet",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 84,
+    "transaction_date": "15-12-2023",
+    "customer_name": "Oliver Davis",
+    "transaction_amount": 30,
+    "item_category": "kitchen",
+    "item_name": "Strainer",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 85,
+    "transaction_date": "15-12-2023",
+    "customer_name": "Sophia Robinson",
+    "transaction_amount": 80,
+    "item_category": "book",
+    "item_name": "The Hobbit",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 86,
+    "transaction_date": "16-12-2023",
+    "customer_name": "Leo Smith",
+    "transaction_amount": 12.5,
+    "item_category": "gaming",
+    "item_name": "Mobile Gaming Controller",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 87,
+    "transaction_date": "16-12-2023",
+    "customer_name": "Ella Brown",
+    "transaction_amount": 120,
+    "item_category": "technology",
+    "item_name": "Graphic Tablet",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 88,
+    "transaction_date": "17-12-2023",
+    "customer_name": "Ava Harris",
+    "transaction_amount": 22,
+    "item_category": "kitchen",
+    "item_name": "Pastry Brush",
+    "payment_method": "credit card",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 89,
+    "transaction_date": "17-12-2023",
+    "customer_name": "Lucas Robinson",
+    "transaction_amount": 90,
+    "item_category": "book",
+    "item_name": "The Kite Runner",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 90,
+    "transaction_date": "18-12-2023",
+    "customer_name": "Chloe Davis",
+    "transaction_amount": 50.5,
+    "item_category": "gaming",
+    "item_name": "PlayStation VR",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 91,
+    "transaction_date": "18-12-2023",
+    "customer_name": "Amelia Hill",
+    "transaction_amount": 300,
+    "item_category": "technology",
+    "item_name": "Smart Speaker",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 92,
+    "transaction_date": "19-12-2023",
+    "customer_name": "Liam Turner",
+    "transaction_amount": 9,
+    "item_category": "kitchen",
+    "item_name": "Kitchen Tongs",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 93,
+    "transaction_date": "19-12-2023",
+    "customer_name": "Noah Wilson",
+    "transaction_amount": 150,
+    "item_category": "book",
+    "item_name": "The Art of Happiness",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 94,
+    "transaction_date": "20-12-2023",
+    "customer_name": "Sophie Turner",
+    "transaction_amount": 5,
+    "item_category": "gaming",
+    "item_name": "Mouse Pad",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 95,
+    "transaction_date": "20-12-2023",
+    "customer_name": "Aiden Robinson",
+    "transaction_amount": 200,
+    "item_category": "technology",
+    "item_name": "Wireless Keyboard",
+    "payment_method": "e wallet",
+    "status": "failed"
+  },
+  {
+    "transaction_id": 96,
+    "transaction_date": "21-12-2023",
+    "customer_name": "Oliver Brown",
+    "transaction_amount": 15,
+    "item_category": "kitchen",
+    "item_name": "Peeler",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 97,
+    "transaction_date": "21-12-2023",
+    "customer_name": "Chloe Wilson",
+    "transaction_amount": 75.5,
+    "item_category": "book",
+    "item_name": "The Road",
+    "payment_method": "credit card",
+    "status": "success"
+  },
+  {
+    "transaction_id": 98,
+    "transaction_date": "22-12-2023",
+    "customer_name": "Ella Harris",
+    "transaction_amount": 30,
+    "item_category": "gaming",
+    "item_name": "Board Game: Monopoly",
+    "payment_method": "cash",
+    "status": "success"
+  },
+  {
+    "transaction_id": 99,
+    "transaction_date": "22-12-2023",
+    "customer_name": "Liam Turner",
+    "transaction_amount": 180,
+    "item_category": "technology",
+    "item_name": "Bluetooth Earbuds",
+    "payment_method": "e wallet",
+    "status": "success"
+  },
+  {
+    "transaction_id": 100,
+    "transaction_date": "23-12-2023",
+    "customer_name": "Mia Robinson",
+    "transaction_amount": 10,
+    "item_category": "kitchen",
+    "item_name": "Can Opener",
+    "payment_method": "credit card",
+    "status": "success"
+  }
+]
