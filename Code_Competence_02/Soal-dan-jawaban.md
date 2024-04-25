@@ -144,7 +144,7 @@ Peserta mampu mengembangkan alur kerja data untuk Sistem Penjualan Tiket Online,
 3. **Transformasi Data dan Pemuatan ke Data Warehouse**
     - **Penyiapan Skrip Python untuk Transformasi Data**
 
-        ![Gambar Install Library Google Cloud Storage](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/Code_Competence_02/screenshots/3-01_Install-library-google-cloud-storage.py.png?raw=true)
+        ![Gambar Install Library Google Cloud Storage](https://github.com/rayhanrere008/de_rayhan-qalby-r/blob/main/Code_Competence_02/screenshots/3-01_Install-library-google-cloud-storage.png?raw=true)
 
         **Jangan lupa untuk melakukan Install Library Google Cloud Storage**
 
