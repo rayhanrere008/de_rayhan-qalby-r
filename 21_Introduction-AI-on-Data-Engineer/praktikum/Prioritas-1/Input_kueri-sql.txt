@@ -1,0 +1,1 @@
+Buatkan kueri SQL untuk skema database media sosial

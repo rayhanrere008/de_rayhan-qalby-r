@@ -1,0 +1,1 @@
+Implementasikan optimasi query SQL dari database media sosial tersebut seperti menerapkan indeksasi dan query tuning
